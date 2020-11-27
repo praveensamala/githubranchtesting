@@ -1,4 +1,4 @@
 
-public class program1 {
+public class program3 {
 	System.out.println("in program3");
 }
